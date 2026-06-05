@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+
+chat_history.db
+database.db
+career_report.pdf
